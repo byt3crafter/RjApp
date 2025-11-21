@@ -1,0 +1,2 @@
+// VITE CONFIG DISABLED FOR EXPO PROJECT
+export default {};

@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "RichJournal",
+    "slug": "richjournal",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "backgroundColor": "#050509"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "richjournal"
+  }
+}
